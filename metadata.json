@@ -7,7 +7,7 @@
     "playlist": ["Nouveautés", "Mixtapes"],
     "imageUrl": "https://i1.sndcdn.com/artworks-Z4b4z5sw5cT5-0-t500x500.jpg"
   },
-  "https://raw.githubusercontent.com/Carbousqua/malibeat-audio/refs/heads/main/Mali%20Beat%20Experience.mp3": {
+  "Mali Beat Experience.mp3": {
     "title": "Dili prestige",
     "artist": "Dili prestige",
     "album": "Mon Empire",
@@ -15,9 +15,9 @@
     "playlist": ["Albums", "Nouveautés"],
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0855e907968551281852188"
   },
-  "https://jimmywarting.github.io/StreamSaver.js/www.udio.com/380785/Vibes%20of%20Mali.mp3": {
+  "Vibes of Mali.mp3": {
     "title": "Ambience Mali",
-    "artist": "MAli Beat",
+    "artist": "Mali Beat",
     "album": "Béni",
     "genre": "Mandingue",
     "playlist": ["Playlists"],
