@@ -4,7 +4,7 @@
     "artist": "Melodic Drill Type Beat",
     "album": "Summer Beats 2025",
     "genre": "Drill",
-    "playlist": "Nouveautés",
+    "playlist": ["Nouveautés", "Mixtapes"],
     "imageUrl": "https://i1.sndcdn.com/artworks-Z4b4z5sw5cT5-0-t500x500.jpg"
   },
   "Iba_One_-_Politic_Kills.mp3": {
@@ -12,7 +12,7 @@
     "artist": "Iba One",
     "album": "Mon Empire",
     "genre": "Rap Malien",
-    "playlist": "Albums",
+    "playlist": ["Albums", "Nouveautés"],
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0855e907968551281852188"
   },
   "Sidiki_Diabate_-_Je_suis_desole.mp3": {
@@ -20,7 +20,8 @@
     "artist": "Sidiki Diabaté",
     "album": "Béni",
     "genre": "Mandingue",
-    "playlist": "Playlists",
+    "playlist": ["Playlists"],
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318c8f85f44d18451a31818c5"
   }
 }
+
