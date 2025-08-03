@@ -17,15 +17,6 @@
       "genre": "Pop",
       "playlist": ["Albums", "Nouveautés"],
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0855e907968551281852188"
-    },
-    {
-      "id": "Vibes of Mali",
-      "title": "Ambience Mali",
-      "artist": "Mali Beat",
-      "album": "Béni",
-      "genre": "Mandingue",
-      "playlist": ["Playlists"],
-      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318c8f85f44d18451a31818c5"
     }
   ]
 }
